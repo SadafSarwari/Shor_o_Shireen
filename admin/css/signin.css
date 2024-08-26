@@ -1,0 +1,8 @@
+body{background-color: rgb();}
+.form-group{margin-top: 5px;margin-bottom: 0px;
+}
+.send{background-color: rgb(176,180,53);color: white;
+border-radius: 0px;
+}
+fieldset{border:5px black solid;padding:30px ;margin: 50px 50px 50px 50px;}
+legend{color: rgb(176,180,53)}
